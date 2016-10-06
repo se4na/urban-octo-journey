@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /
+Disallow: /index.html
+Disallow: /*/index.*
+
+User-agent: Megalodon
+Disallow: /
+
+Sitemap: https://nowarea.tk/sitemap.xml
